@@ -1,0 +1,74 @@
+.first {
+  background: #f1f1fc69;
+}
+
+.landing {
+  padding: 100px 120px;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.titleImage {
+  margin: 0 50px 0 50px;
+  padding: 0;
+  width: 80%;
+}
+
+.landingContent {
+  margin: 0 0 50px 0;
+}
+
+.landingText {
+  font-family: "Montserrat";
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin: 100px 0 15px 0;
+}
+
+.landingTitle {
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  font-weight: bold;
+  margin: 10px 0 15px 0;
+}
+
+.landingParagraph {
+  font-size: 1rem;
+}
+
+/* .dayofweek {
+  font-family: "Montserrat";
+  font-size: 1rem;
+} */
+
+.contactBtn {
+  background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+  border: none;
+  color: #fff;
+}
+
+.viewBtn {
+  border: 1px solid #8490ff;
+  background-color: transparent;
+}
+
+.viewBtn,
+.contactBtn {
+  border-radius: 10px;
+  font-size: 1.2rem;
+  padding: 10px;
+  text-align: center;
+  margin: 20px 20px 20px 0;
+}
+
+.viewBtn:hover {
+  background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+  color: white;
+  border: none;
+}
+
+.contactBtn:hover {
+  border: 1px solid #8490ff;
+  background: transparent;
+  color: #000;
+}

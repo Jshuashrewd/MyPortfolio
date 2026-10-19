@@ -1,0 +1,20 @@
+body {
+    font-family: 'Montserrat';
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: "Montserrat";
+}
+
+img {
+  width: auto;
+  height: auto;
+  max-width: 100%; /* Ensures the image scales down on smaller screens */
+}

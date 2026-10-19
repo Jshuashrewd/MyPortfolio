@@ -1,0 +1,22 @@
+.navbar {
+  margin: 10px 80px 0 80px;
+  background-color: #fff;
+}
+
+.navbarBrand,
+span {
+  padding: 10px;
+  font-family: "Ubuntu";
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navItem {
+  padding: 0 18px;
+}
+
+.navLink {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+  font-weight: 500;
+}
